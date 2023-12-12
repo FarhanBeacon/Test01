@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+body{
+    font-size: 32px;
+    background-color: dimgrey;
+    color: violet;
+    text-align: center;
+}
+
+div{
+    position: relative;
+    top: 300px;
+}
